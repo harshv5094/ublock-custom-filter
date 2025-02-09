@@ -1,0 +1,10 @@
+! Title: Gmail Gemini filter
+! Description: Remove Gmail Gemini Logo 
+! Homepage: https://github.com/harshv5094/ublock-custom-filter
+
+mail.google.com##.VYBDae-JX-ano
+mail.google.com##.aoH.EiVpKc
+mail.google.com##.wUn25c.VOYwb
+mail.google.com##.VYBDae-JX-ank-Rtc0Jf
+mail.google.com##.XyWBof.VYBDae-JX-I-ql-ay5-ays.VYBDae-JX-I
+mail.google.com##.e5IPTd.r4vW1e
